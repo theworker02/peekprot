@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/peekprot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Peek numeric prot values, ranges, and human-readable units.",
+  "bin": {
+    "peekprot": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/peekprot.git"
+  },
+  "homepage": "https://theworker02.github.io/peekprot/",
+  "keywords": [
+    "peek",
+    "prot",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
